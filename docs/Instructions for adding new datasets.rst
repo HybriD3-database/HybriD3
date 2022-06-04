@@ -5,8 +5,7 @@ Instructions for adding new datasets
 The following is a tentative list of details that should be mentioned while entering data in the HybriD\ :sup:`3` database, along with the probable location in published literature where such information can be found. This document can be used as a general guideline for the purpose of adding new datasets.
 
 -----------------------------------------------------
-Atomic structure 
-Dealing with crystallographic information files (CIFs)
+Atomic structure: dealing with crystallographic information files (CIFs)
 -----------------------------------------------------
 
 Crystallographic information files (CIFs) are a standardized file format, generated after collecting and solving diffraction data (generally, X-ray diffraction or neutron diffraction). Information on the atomic structure of a material, along with the measurement conditions, can be found in the CIFs. Also, one CIF can contain information on multiple structures. These files are usually submitted with manuscripts to journals and are expected to be peer-reviewed before publication. Prior to including any CIF in the HybriD3 database, it is critical to ensure that the copyright holder of each particular CIF has agreed that we are allowed to include the CIF. CIFs are not just bare data (i.e., they do not just state trivial numbers but rather contain a great deal of specific text) and they are clearly and legitimately subject to copyright. Including CIFs from other, external databases, for example, is usually not permitted and individual permission from the authors must be sought to include a format that is not the same CIF as stored in an existing database.
