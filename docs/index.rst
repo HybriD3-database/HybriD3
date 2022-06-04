@@ -13,3 +13,4 @@ Contents
    naming
    material
    standard parameters
+   Instructions for adding new datasets
