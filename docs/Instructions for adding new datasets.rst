@@ -117,5 +117,7 @@ For example, by default, a photoluminescence dataset will display “photolumine
 The following are a few primary properties and the recommended corresponding y-axis labels that we can use:
 
 Photoluminescence – Intensity
+
 Absorbance – Normalized absorbance [Note: sometimes absorbance is reported in paper as absolute values. In such cases, the label should be “Absorbance”]
+
 PXRD – Intensity
