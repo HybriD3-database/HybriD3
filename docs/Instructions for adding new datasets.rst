@@ -1,6 +1,6 @@
-========================
-Experimental data
-========================
+====================================
+Instructions for adding new datasets
+====================================
 
 The following is a tentative list of details that should be mentioned while entering data in the HybriD\ :sup:`3` database, along with the probable location in published literature where such information can be found. This document can be used as a general guideline for the purpose of adding new datasets.
 
