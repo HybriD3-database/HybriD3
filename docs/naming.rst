@@ -30,7 +30,13 @@ A commonly accepted but chemically sensible verbal name for a compound, such as 
 IUPAC name
 ----------
 
+IUPAC (the International Union of Pure and Applied Chemistry) has long been active in defining standards that unambiguously define a specific name for a given chemical compound, reflecting at least its primary bond topology (i.e., arrangement of atoms in a molecule) as well. These names can be complex and do not always align with de facto standard names used in the community (the de facto standard names of which we are aware are also collected in the HybriD^3 database).
+
+"Our" compounds consist of an organic part and an inorganic part, and are additionally ionic in nature. 
+
 A field that adds a IUPAC conforming name especially for complex organic cations to the best of our present abilities. For complex molecules, detailed IUPAC names are not simple and, as we understand them, also not always unique. We welcome feedback on particular name choices, should they seem ambiguous or need correction. Thank you!
+
+** IUPAC conventions adopted for organic cations **
 
 The rules used to generate our IUPAC names come from the IUPAC Blue Book found online at: https://iupac.qmul.ac.uk/BlueBook/. We attempt to generate the names according to the rules laid out for Preferred IUPAC Names (PIN) choosing for example aminium over azanium to refer to NH4+. Especially applicable to this project are the rules detailed in chapter 7 of the Blue Book: https://iupac.qmul.ac.uk/BlueBook/P7.html#73 as they describe specifically Cation naming conventions. 
 
@@ -53,6 +59,12 @@ A particularly relevant question in the `IUPAC Blue Book`_ at the time of writin
      - methanaminium (PIN)
      - 2-phenylethane-1-aminium (PIN)
    
+** IUPAC conventions adopted for the naming of the inorganic part of a hybrid compound **
+
+IUPAC's rules for naming inorganic compounds are collected in the IUPAC "Red Book" found online at: https://iupac.org/what-we-do/books/redbook/. 
+
+
+
 ---------------
 Alternate Names
 ---------------
