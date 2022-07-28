@@ -30,7 +30,7 @@ A commonly accepted but chemically sensible verbal name for a compound, such as 
 IUPAC name
 ----------
 
-IUPAC (the International Union of Pure and Applied Chemistry) has long been active in defining standards that unambiguously define a specific name for a given chemical compound, reflecting at least its primary bond topology (i.e., arrangement of atoms in a molecule) as well. These names can be complex and do not always align with de facto standard names used in the community (the de facto standard names of which we are aware are also collected in the HybriD\ :sup:`^3` database).
+IUPAC (the International Union of Pure and Applied Chemistry) has long been active in defining standards that unambiguously define a specific name for a given chemical compound, reflecting at least its primary bond topology (i.e., arrangement of atoms in a molecule) as well. These names can be complex and do not always align with de facto standard names used in the community (the de facto standard names of which we are aware are also collected in the HybriD\ :sup:`3` database).
 
 "Our" compounds consist of an organic part and an inorganic part, and are additionally ionic in nature. 
 
@@ -66,7 +66,9 @@ IUPAC conventions adopted for the naming of the inorganic part of a hybrid compo
 
 IUPAC's rules for naming inorganic compounds are collected in the IUPAC "Red Book" found online at: https://iupac.org/what-we-do/books/redbook/. 
 
-Specifically, we need to account for proportions of constituents, however, which can vary in hybrid organic-inorganic compounds even for the same basic constituents. For example, the single inorganic layer variant (n=1) of phenethylammonium lead iodide is (PEA)_2PbI_4
+Specifically, we need to account for proportions of constituents, however, which can vary in hybrid organic-inorganic compounds even for the same basic constituents. For example, the single inorganic layer variant (n=1) of phenethylammonium lead iodide is (PEA)\ :sub:`2`PbI\ :sub:`4` in its stoichiometric form; the crystalline form with an inorganic bilayer (n=2) may be (PEA)\ :sub:`2`(MA)Pb\ :sub:`2`I\ :sub:`7` if crystallized with methylammonium as the organic cation that balances the inorganic bilayer. 
+
+We currently only implement the simplest variant of indicating the nature of the inorganic component, using formal oxidation numbers to indicate the state of cations that could have ambiguous charges, i.e.: "lead(II) iodide" in the cases in question.
 
 ---------------
 Alternate Names
