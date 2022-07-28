@@ -66,7 +66,7 @@ IUPAC conventions adopted for the naming of the inorganic part of a hybrid compo
 
 IUPAC's rules for naming inorganic compounds are collected in the IUPAC "Red Book" found online at: https://iupac.org/what-we-do/books/redbook/. 
 
-Specifically, we need to account for proportions of constituents, however, which can vary in hybrid organic-inorganic compounds even for the same basic constituents. For example, the single inorganic layer variant (n=1) of phenethylammonium lead iodide is (PEA)\ :sub:`2`PbI\ :sub:`4` in its stoichiometric form; the crystalline form with an inorganic bilayer (n=2) may be (PEA)\ :sub:`2`(MA)Pb\ :sub:`2`I\ :sub:`7` if crystallized with methylammonium as the organic cation that balances the inorganic bilayer. 
+Specifically, we need to account for proportions of constituents, however, which can vary in hybrid organic-inorganic compounds even for the same basic constituents. For example, the single inorganic layer variant (n=1) of phenethylammonium lead iodide is (PEA)\ :sub:`2`PbI\ :sub:`4` in its stoichiometric form; the crystalline form with an inorganic bilayer (n=2) may be (PEA)\ :sub:`2` (MA)Pb\ :sub:`2` I\ :sub:`7` if crystallized with methylammonium as the organic cation that balances the inorganic bilayer. 
 
 We currently only implement the simplest variant of indicating the nature of the inorganic component, using formal oxidation numbers to indicate the state of cations that could have ambiguous charges, i.e.: "lead(II) iodide" in the cases in question.
 
