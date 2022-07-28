@@ -66,7 +66,7 @@ IUPAC conventions adopted for the naming of the inorganic part of a hybrid compo
 
 IUPAC's rules for naming inorganic compounds are collected in the IUPAC "Red Book" found online at: https://iupac.org/what-we-do/books/redbook/. 
 
-
+Specifically, we need to account for proportions of constituents, however, which can vary in hybrid organic-inorganic compounds even for the same basic constituents. For example, the single inorganic layer variant (n=1) of phenethylammonium lead iodide is (PEA)_2PbI_4
 
 ---------------
 Alternate Names
