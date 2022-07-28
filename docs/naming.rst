@@ -30,7 +30,7 @@ A commonly accepted but chemically sensible verbal name for a compound, such as 
 IUPAC name
 ----------
 
-IUPAC (the International Union of Pure and Applied Chemistry) has long been active in defining standards that unambiguously define a specific name for a given chemical compound, reflecting at least its primary bond topology (i.e., arrangement of atoms in a molecule) as well. These names can be complex and do not always align with de facto standard names used in the community (the de facto standard names of which we are aware are also collected in the HybriD^3 database).
+IUPAC (the International Union of Pure and Applied Chemistry) has long been active in defining standards that unambiguously define a specific name for a given chemical compound, reflecting at least its primary bond topology (i.e., arrangement of atoms in a molecule) as well. These names can be complex and do not always align with de facto standard names used in the community (the de facto standard names of which we are aware are also collected in the HybriD:sup:`^3` database).
 
 "Our" compounds consist of an organic part and an inorganic part, and are additionally ionic in nature. 
 
