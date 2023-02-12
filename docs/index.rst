@@ -14,3 +14,4 @@ Contents
    material
    standard parameters
    Instructions for adding new datasets
+   Making corrections to an existing data set
